@@ -1,0 +1,1116 @@
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\app_ios.py:1025: SyntaxWarning: invalid escape sequence '\/'
+  <li><strong>AIÄ£¿é:</strong> Python, BioPython, Matplotlib</li>
+2025-10-16 15:11:25.346 Script compilation error
+Traceback (most recent call last):
+  File "C:\Users\guoyo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 571, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "C:\Users\guoyo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\streamlit\runtime\scriptrunner\script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "C:\Users\guoyo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\streamlit\runtime\scriptrunner\magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2288.0_x64__qbz5n2kfra8p0\Lib\ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+                   _feature_version=feature_version, optimize=optimize)
+  File "D:\ProteinFoldDAO\ui\app_ios.py", line 1039
+    const b=document.getElementById('copy_btn_{pred['id']}');
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+2025-10-16 15:11:25.350 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+D:\ProteinFoldDAO\ui\app_ios.py:1025: SyntaxWarning: invalid escape sequence '\/'
+  <li><strong>AIÄ£¿é:</strong> Python, BioPython, Matplotlib</li>
+2025-10-16 15:11:34.112 Script compilation error
+Traceback (most recent call last):
+  File "C:\Users\guoyo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 571, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+  File "C:\Users\guoyo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\streamlit\runtime\scriptrunner\script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+  File "C:\Users\guoyo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\streamlit\runtime\scriptrunner\magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2288.0_x64__qbz5n2kfra8p0\Lib\ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+                   _feature_version=feature_version, optimize=optimize)
+  File "D:\ProteinFoldDAO\ui\app_ios.py", line 1039
+    const b=document.getElementById('copy_btn_{pred['id']}');
+    ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+2025-10-16 15:11:34.113 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:315: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37327 (\N{CJK UNIFIED IDEOGRAPH-91CF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 34507 (\N{CJK UNIFIED IDEOGRAPH-86CB}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 30333 (\N{CJK UNIFIED IDEOGRAPH-767D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 25240 (\N{CJK UNIFIED IDEOGRAPH-6298}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 21472 (\N{CJK UNIFIED IDEOGRAPH-53E0}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 24452 (\N{CJK UNIFIED IDEOGRAPH-5F84}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 27688 (\N{CJK UNIFIED IDEOGRAPH-6C28}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 37240 (\N{CJK UNIFIED IDEOGRAPH-9178}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
+D:\ProteinFoldDAO\ui\..\ai\predictor.py:319: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.savefig(buffer, format='png', dpi=150, bbox_inches='tight',
