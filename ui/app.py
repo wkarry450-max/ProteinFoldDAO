@@ -22,28 +22,43 @@ from predictor import ProteinFoldingPredictor
 
 # 页面配置
 st.set_page_config(
-    page_title="ProteinFoldDAO",
+    page_title="ProteinFoldDAO - AI × ETH",
     page_icon="🧬",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="expanded",
+    menu_items={
+        'Get Help': 'https://github.com/Friendheim/ProteinFoldDAO',
+        'Report a bug': "https://github.com/Friendheim/ProteinFoldDAO/issues",
+        'About': "ProteinFoldDAO - 去中心化蛋白折叠预测DAO平台"
+    }
 )
 
-# GitHub风格CSS样式
+# 现代化AI×ETH主题CSS样式
 st.markdown("""
 <style>
-    /* GitHub风格主题 */
+    /* 现代化AI×ETH主题 */
     .stApp {
-        background-color: #0d1117;
-        color: #e6edf3;
+        background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
+        color: #ffffff;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     }
     
     .main-header {
         text-align: center;
-        color: #58a6ff;
-        margin-bottom: 2rem;
-        font-weight: 600;
-        font-size: 2.5rem;
-        text-shadow: 0 0 10px rgba(88, 166, 255, 0.3);
+        background: linear-gradient(45deg, #00d4ff, #5b73ff, #8b5cf6);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        margin-bottom: 1rem;
+        font-weight: 800;
+        font-size: 3.5rem;
+        text-shadow: 0 0 30px rgba(0, 212, 255, 0.3);
+        animation: glow 2s ease-in-out infinite alternate;
+    }
+    
+    @keyframes glow {
+        from { text-shadow: 0 0 20px rgba(0, 212, 255, 0.3); }
+        to { text-shadow: 0 0 30px rgba(0, 212, 255, 0.6); }
     }
     
     .subtitle {

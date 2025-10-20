@@ -297,12 +297,12 @@ class ProteinFoldingPredictor:
         
         # 创建图表
         plt.figure(figsize=(8, 4))  # 减小高度，与下面的图表保持一致
-        plt.plot(x, energy_values, 'b-', linewidth=2, label='折叠能量')
+        plt.plot(x, energy_values, 'b-', linewidth=2, label='Folding Energy')
         plt.fill_between(x, energy_values, alpha=0.3, color='blue')
         
-        plt.xlabel('氨基酸位置', fontsize=10)
-        plt.ylabel('相对能量 (kcal/mol)', fontsize=10)
-        plt.title('蛋白折叠能量路径', fontsize=12, fontweight='bold')
+        plt.xlabel('Amino Acid Position', fontsize=10)
+        plt.ylabel('Relative Energy (kcal/mol)', fontsize=10)
+        plt.title('Protein Folding Energy Path', fontsize=12, fontweight='bold')
         plt.grid(True, alpha=0.3)
         plt.legend(fontsize=9)
         
@@ -310,7 +310,7 @@ class ProteinFoldingPredictor:
         stable_regions = np.where(np.array(energy_values) < -0.5)[0]
         if len(stable_regions) > 0:
             plt.scatter(stable_regions, [energy_values[i] for i in stable_regions], 
-                       color='green', s=20, alpha=0.7, label='稳定区域')
+                       color='green', s=20, alpha=0.7, label='Stable Regions')
         
         plt.tight_layout()
         
