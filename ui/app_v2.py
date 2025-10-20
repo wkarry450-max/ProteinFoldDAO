@@ -766,19 +766,92 @@ def main():
         
         # 示例序列
         example_sequences = {
+            "选择示例序列": "",
             "GFP (绿色荧光蛋白)": "MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK",
             "胰岛素": "MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
             "血红蛋白": "MVLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR",
+            "肌红蛋白": "MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASEDLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISEAIIQVLQSKHPGDFGADAQGAMTKALELFRNDIAAKYKELGFQG",
+            "细胞色素C": "MGDVEKGKKIFIMKCSQCHTVEKGGKHKTGPNLHGLFGRKTGQAPGYSYTAANKNKGIIWGEDTLMEYLENPKKYIPGTKMIFVGIKKKEERADLIAYLKKATNE",
             "自定义序列": ""
         }
         
         selected_example = st.selectbox("选择示例序列:", list(example_sequences.keys()))
         
         if selected_example == "自定义序列":
+            # 自动生成蛋白序列选项
+            col1, col2 = st.columns([2, 1])
+            
+            with col1:
+                st.markdown("#### 🧬 自定义蛋白序列")
+            
+            with col2:
+                if st.button("🎲 自动生成序列", help="点击生成随机蛋白序列"):
+                    # 生成随机蛋白序列
+                    amino_acids = "ACDEFGHIKLMNPQRSTVWY"  # 20种标准氨基酸
+                    sequence_length = np.random.randint(50, 200)  # 随机长度50-200
+                    random_sequence = ''.join(np.random.choice(list(amino_acids), sequence_length))
+                    st.session_state['generated_sequence'] = random_sequence
+                    st.rerun()
+            
+            # 序列长度选择
+            sequence_length = st.slider("选择序列长度:", min_value=20, max_value=500, value=100, step=10)
+            
+            # 序列类型选择
+            sequence_type = st.selectbox("选择序列类型:", [
+                "随机序列", "疏水性序列", "亲水性序列", "混合序列", "α螺旋倾向", "β折叠倾向"
+            ])
+            
+            # 生成按钮
+            if st.button("🔬 生成指定类型序列", type="secondary"):
+                amino_acids = "ACDEFGHIKLMNPQRSTVWY"
+                
+                if sequence_type == "随机序列":
+                    generated_sequence = ''.join(np.random.choice(list(amino_acids), sequence_length))
+                elif sequence_type == "疏水性序列":
+                    hydrophobic_aa = "AILMFWYV"  # 疏水性氨基酸
+                    generated_sequence = ''.join(np.random.choice(list(hydrophobic_aa), sequence_length))
+                elif sequence_type == "亲水性序列":
+                    hydrophilic_aa = "NQSTY"  # 亲水性氨基酸
+                    generated_sequence = ''.join(np.random.choice(list(hydrophilic_aa), sequence_length))
+                elif sequence_type == "混合序列":
+                    # 70%疏水，30%亲水
+                    hydrophobic_aa = "AILMFWYV"
+                    hydrophilic_aa = "NQSTY"
+                    other_aa = "CDEGHKR"
+                    generated_sequence = ''.join([
+                        np.random.choice(list(hydrophobic_aa)) if np.random.random() < 0.7
+                        else np.random.choice(list(hydrophilic_aa)) if np.random.random() < 0.3
+                        else np.random.choice(list(other_aa))
+                        for _ in range(sequence_length)
+                    ])
+                elif sequence_type == "α螺旋倾向":
+                    helix_aa = "AELMK"  # α螺旋倾向氨基酸
+                    generated_sequence = ''.join(np.random.choice(list(helix_aa), sequence_length))
+                elif sequence_type == "β折叠倾向":
+                    sheet_aa = "VITWYF"  # β折叠倾向氨基酸
+                    generated_sequence = ''.join(np.random.choice(list(sheet_aa), sequence_length))
+                
+                st.session_state['generated_sequence'] = generated_sequence
+                st.rerun()
+            
+            # 显示生成的序列
+            if 'generated_sequence' in st.session_state:
+                sequence_input = st.text_area(
+                    "生成的氨基酸序列:",
+                    value=st.session_state['generated_sequence'],
+                    height=200
+                )
+            else:
+                sequence_input = st.text_area(
+                    "输入氨基酸序列 (单字母代码):",
+                    height=200,
+                    placeholder="点击上方按钮自动生成序列，或手动输入序列..."
+                )
+        elif selected_example == "选择示例序列":
             sequence_input = st.text_area(
-                "输入氨基酸序列 (单字母代码):",
+                "氨基酸序列:",
                 height=200,
-                placeholder="例如: MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFSYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK"
+                placeholder="请从上方下拉菜单选择一个示例序列，或选择'自定义序列'输入您自己的序列"
             )
         else:
             sequence_input = st.text_area(
